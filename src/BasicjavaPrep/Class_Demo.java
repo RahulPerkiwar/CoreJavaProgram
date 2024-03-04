@@ -64,6 +64,7 @@ public class Class_Demo {
 		 System.out.println("The care model is :"+model);
 		 System.out.println("The cost of car is :"+cost);
 		 System.out.println("The color of car is :"+color);
+		 System.out.println("The run successfully");
 	 }
 		
 	}
