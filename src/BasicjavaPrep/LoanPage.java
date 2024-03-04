@@ -6,6 +6,6 @@ public class LoanPage {
 
 {
 		System.out.println("This method will find the intrest");
-
+        System.out.println(" Rahul Perkiwar");
 }
 }
