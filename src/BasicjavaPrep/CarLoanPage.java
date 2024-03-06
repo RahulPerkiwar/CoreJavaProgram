@@ -7,6 +7,7 @@ public class CarLoanPage {
 		
 		System.out.println("Calculating car");
 		
+		System.out.println("Hello World");	
 	}
 
 }
